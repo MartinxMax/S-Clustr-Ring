@@ -1,0 +1,1 @@
+pyinstaller -F H4vdo_demo.py -n H4vdo_demo --distpath ./

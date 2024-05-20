@@ -1,0 +1,1 @@
+pyinstaller -F Nets3e_demo.py -n Nets3e_demo --distpath ./
